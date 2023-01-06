@@ -1,0 +1,25 @@
+# Blender MTL File: 'Closet.blend'
+# Material Count: 2
+
+newmtl Closet
+Ns 46.887575
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 7.300000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Closet\\ClosetText_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Closet\\Closet.png
+
+newmtl Columna
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Columnas\\Wood_006_COLOR.jpg

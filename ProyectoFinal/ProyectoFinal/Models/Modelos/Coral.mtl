@@ -1,0 +1,245 @@
+# Blender MTL File: 'Coral.blend'
+# Material Count: 22
+
+newmtl Coral_Inf.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Sup.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Piedra
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\marble_coloured_001_COLOR.png
+
+newmtl Rama
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Bark_Pine_normal.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Bark_Pine_baseColor.jpg

@@ -1,0 +1,128 @@
+# Blender MTL File: 'ProyectoFachada.blend'
+# Material Count: 11
+
+newmtl (null)
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Columna
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 10.000000 Texturas\\Columnas\\Wood_006_NORM.jpg
+map_Kd Texturas\\Columnas\\Wood_006_COLOR.jpg
+
+newmtl None
+Ns 499.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Pared
+Ns 19.438644
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.184685 0.184685 0.184685
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Texturas\\Pared\\Quartz_003_basecolor.jpg
+
+newmtl Pared_Alta
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Texturas\\Pareda_Alta\\Decoracion_Pared.png
+
+newmtl Pared_Baja
+Ns 244.012168
+Ka 0.234940 0.234940 0.234940
+Kd 0.800000 0.800000 0.800000
+Ks 0.138554 0.138554 0.138554
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 Texturas\\Pard_Baja\\Wood_Wall_002_normal.jpg
+map_Kd Texturas\\Pard_Baja\\Wood_Wall_002_basecolor.jpg
+
+newmtl Psio_Madera_Alt
+Ns 111.987697
+Ka 0.409449 0.409449 0.409449
+Kd 0.800000 0.800000 0.800000
+Ks 0.366142 0.366142 0.366142
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 3.400001 Texturas\\Piso_Madera\\Wood_Floor_009_normal.jpg
+map_Kd Texturas\\Piso_Madera\\Original.png
+
+newmtl Puertas
+Ns 143.170207
+Ka 0.108108 0.108108 0.108108
+Kd 0.800000 0.800000 0.800000
+Ks 0.220721 0.220721 0.220721
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.800000 Texturas\\Puerta\\Normales\\Puerta_normal.png
+map_Kd Texturas\\Puerta\\Puerta.png
+
+newmtl Ta_pt
+Ns 227.984754
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.180180 0.180180 0.180180
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 7.599999 Texturas\\Piso_Tatami\\Normales\\Tatami_normal.png
+map_Kd Texturas\\Piso_Tatami\\Normales\\Tatami_diffuseOriginal.png
+
+newmtl Techo
+Ns 1.298594
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 9.599999 Texturas\\Techo_Madera\\Wood_Ceiling_Coffers_002_normal.jpg
+map_Kd Texturas\\Techo_Madera\\Wood_Ceiling_Coffers_002_basecolor.jpg
+
+newmtl Ventana
+Ns 179.287333
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.234234 0.234234 0.234234
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Bump -bm 2.800000 Texturas\\Ventana\\Normal\\Ventana_normal.png
+map_Kd Texturas\\Ventana\\Normal\\Ventana_diffuseOriginal.png

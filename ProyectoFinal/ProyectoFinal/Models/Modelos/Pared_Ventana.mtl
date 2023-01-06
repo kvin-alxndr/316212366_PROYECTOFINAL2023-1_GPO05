@@ -1,0 +1,55 @@
+# Blender 3.3.1 MTL File: 'Proyecto.blend'
+# www.blender.org
+
+newmtl Columna
+Ns 281.027740
+Ka 1.000000 1.000000 1.000000
+Ks 0.180723 0.180723 0.180723
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Wood_006_COLOR.jpg
+map_Bump -bm 10.000000 textures/Wood_006_NORM.jpg
+
+newmtl Pared
+Ns 19.438643
+Ka 1.000000 1.000000 1.000000
+Ks 0.184685 0.184685 0.184685
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Quartz_003_basecolor.jpg
+
+newmtl Pared_Alta
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.081081 0.081081 0.081081
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Decoracion_Pared.png
+
+newmtl Pared_Baja
+Ns 244.012177
+Ka 0.234940 0.234940 0.234940
+Ks 0.138554 0.138554 0.138554
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Wood_Wall_002_basecolor.jpg
+map_Bump C:/Wood_Wall_002_normal.jpg
+
+newmtl Ventana
+Ns 375.294128
+Ka 1.000000 1.000000 1.000000
+Ks 1.800000 1.800000 1.800000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd C:/Ventana.png
+map_Bump -bm 2.800000 C:/Ventana_normal.png

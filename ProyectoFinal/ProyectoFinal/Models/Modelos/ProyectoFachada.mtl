@@ -1,0 +1,628 @@
+# Blender MTL File: 'ProyectoFachada.blend'
+# Material Count: 56
+
+newmtl Almohada.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Almohada .png
+
+newmtl BiomboP1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Biombo\\BiomboReg.png
+
+newmtl BiomboP2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Biombo\\BiomboMed1.png
+
+newmtl BiomboP3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Biombo\\BiomboMed2.png
+
+newmtl BiomboP4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Biombo\\BiomboDer.png
+
+newmtl Bola
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\bola.png
+
+newmtl Bola.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\bola.png
+
+newmtl Cabecera.001
+Ns 100.781041
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.600000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Completa_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Completa.png
+
+newmtl Cama_Lado.001
+Ns 5.102036
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.023810 0.023810 0.023810
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.010000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cama_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cama.png
+
+newmtl Cama_inf.001
+Ns 39.367582
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.023809 0.023809 0.023809
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.900000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Inferior\\Normal_Inferior.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Inferior\\Cama_Inf.png
+
+newmtl Closet
+Ns 46.887575
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 7.300000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Closet\\ClosetText_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Closet\\Closet.png
+
+newmtl Cobija.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cobija.png
+
+newmtl Cojin
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cojin\\Cojin.png
+
+newmtl Columna
+Ns 281.027736
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.180723 0.180723 0.180723
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 10.000000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Columnas\\Wood_006_NORM.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Columnas\\Wood_006_COLOR.jpg
+
+newmtl Coral_Inf.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Inf.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Inf.png
+
+newmtl Coral_Sup.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Coral_Sup.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Coral_Sup.png
+
+newmtl Cordon
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\Cordon.png
+
+newmtl CordonInf
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\CordonInf.png
+
+newmtl Florero
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Florero\\Florero.png
+
+newmtl Kotatsu
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.236220 0.236220 0.236220
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Kotatsu\\KotatsuComp.png
+
+newmtl Lampara
+Ns 234.500034
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.042953 0.042953 0.042953
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.500000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\TexLamp_normal.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\Lampara.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Pared
+Ns 19.438644
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.184685 0.184685 0.184685
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Pared\\Quartz_003_basecolor.jpg
+
+newmtl Pared_Alta
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.081081 0.081081 0.081081
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Pareda_Alta\\Decoracion_Pared.png
+
+newmtl Pared_Baja
+Ns 244.012168
+Ka 0.234940 0.234940 0.234940
+Kd 0.800000 0.800000 0.800000
+Ks 0.138554 0.138554 0.138554
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 Texturas\\Pard_Baja\\Wood_Wall_002_normal.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Pard_Baja\\Wood_Wall_002_basecolor.jpg
+
+newmtl Piedra
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\marble_coloured_001_COLOR.png
+
+newmtl Planta
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 4.400000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Florero\\Bark_Pine_normal.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Florero\\Bark_Pine_baseColor.jpg
+
+newmtl Psio_Madera_Alt
+Ns 111.987697
+Ka 0.409449 0.409449 0.409449
+Kd 0.800000 0.800000 0.800000
+Ks 0.366142 0.366142 0.366142
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 3.400001 Texturas\\Piso_Madera_2\\Wood_Floor_006_NORM.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Piso_Madera_2\\Wood_Floor_006_COLOR.jpg
+
+newmtl Puertas
+Ns 143.170207
+Ka 0.108108 0.108108 0.108108
+Kd 0.800000 0.800000 0.800000
+Ks 0.220721 0.220721 0.220721
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.800000 Texturas\\Puerta\\Normales\\Puerta_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Puerta\\Puerta.png
+
+newmtl Rama
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Bark_Pine_normal.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Coral\\Bark_Pine_baseColor.jpg
+
+newmtl Seccion_Cabecera.001
+Ns 121.945060
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 4.800000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Seccion_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Seccion.png
+
+newmtl Ta_pt
+Ns 227.984754
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.180180 0.180180 0.180180
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 7.599999 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Piso_Tatami\\Normales\\Tatami_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Piso_Tatami\\Piso_Tatami.png
+
+newmtl Tabla.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Kotatsu\\Tabla.png
+
+newmtl Tapete.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Kotatsu\\Tapete.png
+
+newmtl Techo
+Ns 1.298594
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.171171 0.171171 0.171171
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 9.599999 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Techo_Madera\\Wood_Ceiling_Coffers_002_normal.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Techo_Madera\\Wood_Ceiling_Coffers_002_basecolor.jpg
+
+newmtl Ventana
+Ns 179.287333
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.234234 0.234234 0.234234
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Bump -bm 2.800000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Ventana\\Normal\\Ventana_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Ventana\\Ventana_Grande.png

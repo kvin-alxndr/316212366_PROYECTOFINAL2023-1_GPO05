@@ -1,0 +1,26 @@
+# Blender MTL File: 'ProyectoFachada.blend'
+# Material Count: 2
+
+newmtl Columna
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 10.000000 Texturas\\Columnas\\Wood_006_NORM.jpg
+map_Kd Texturas\\Columnas\\Wood_006_COLOR.jpg
+
+newmtl Puertas
+Ns 143.170207
+Ka 0.108108 0.108108 0.108108
+Kd 0.800000 0.800000 0.800000
+Ks 0.220721 0.220721 0.220721
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.800000 Texturas\\Puerta\\Normales\\Puerta_normal.png
+map_Kd Texturas\\Puerta\\Puerta.png

@@ -1,0 +1,45 @@
+# Blender 3.3.1 MTL File: 'ProyectoFachada.blend'
+# www.blender.org
+
+newmtl DecoOro
+Ns 644.411255
+Ka 0.853211 0.853211 0.853211
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Tiles_Metal_001_Base_Color.jpg
+map_Bump Tiles_Metal_001_normal.jpg
+
+newmtl LlamaVerla
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd LlamaVela.png
+
+newmtl Metal
+Ns 615.289124
+Ka 0.779816 0.779816 0.779816
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Metal_Galvanized_001_basecolor.jpg
+map_Bump -bm 1.300000 Metal_Galvanized_001_normal.jpg
+
+newmtl Vela
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Candle_001_basecolor.jpg
+map_Bump -bm 2.600000 Candle_001_normal.jpg

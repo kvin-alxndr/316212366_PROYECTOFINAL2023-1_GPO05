@@ -1,0 +1,72 @@
+# Blender MTL File: 'Cama.blend'
+# Material Count: 6
+
+newmtl Almohada
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Almohada .png
+
+newmtl Cabecera
+Ns 100.781041
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.600000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Completa_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Completa.png
+
+newmtl Cama_Lado
+Ns 5.102036
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.023810 0.023810 0.023810
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.010000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cama_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cama.png
+
+newmtl Cama_inf
+Ns 39.367582
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.023809 0.023809 0.023809
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.900000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Inferior\\Normal_Inferior.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Inferior\\Cama_Inf.png
+
+newmtl Cobija
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cobija.png
+
+newmtl Seccion_Cabecera
+Ns 121.945060
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 4.800000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Seccion_normal.png
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Cama\\Cabecera\\Seccion.png

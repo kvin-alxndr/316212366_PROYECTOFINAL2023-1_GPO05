@@ -1,0 +1,80 @@
+# Blender MTL File: 'Lampara.blend'
+# Material Count: 7
+
+newmtl Bola
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\bola.png
+
+newmtl Bola.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\bola.png
+
+newmtl Columna
+Ns 197.919919
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.279528 0.279528 0.279528
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Columnas\\Wood_006_COLOR.jpg
+
+newmtl Cordon
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\Cordon.png
+
+newmtl Cordon.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\Cordon.png
+
+newmtl CordonInf
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\CordonInf.png
+
+newmtl Lampara
+Ns 234.500034
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.358268 0.358268 0.358268
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.500000 C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\TexLamp_normal.jpg
+map_Kd C:\\Users\\Kevin\\Desktop\\Escuela\\Octavo Semestre\\Computación Gráfica\\Proyecto_Final\\Texturas\\Lampara_biombo\\Lampara.png
